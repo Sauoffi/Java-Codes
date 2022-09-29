@@ -3,7 +3,7 @@ int main()
 {
     long int Fact(int a);
     int a;
-    printf("Enter a number :");
+    printf("Enter number :");
     scanf("%d", &n);
     printf("Factorial of %d = %ld", n, Fact(a));
     return 0;
