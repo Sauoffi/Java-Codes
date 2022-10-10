@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch constructor",
+      "request": "launch",
+      "mainClass": "constructor",
+      "projectName": "java_6bd9e9ce"
+    },
+    {
+      "type": "java",
+      "name": "Launch main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "java_6bd9e9ce"
+    },
+    {
+      "type": "java",
       "name": "Launch three",
       "request": "launch",
       "mainClass": "three",
